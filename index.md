@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Салам дружище ты попал на сайт CRMP проекта "Black Majors RP"
 
 You can use the [editor on GitHub](https://github.com/MaksRubin/blackmajorsrp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
